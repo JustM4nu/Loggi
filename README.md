@@ -75,8 +75,9 @@ Even if you don’t want to code, we encourage you to report any bugs you find o
 
 If you have any questions, issues, or feedback, feel free to reach out to me. I am happy to help and engage with the community. You can contact me via:
 
-- [JustManu on GitHub](https://github.com/JustM4nu) or
+- [JustManu on GitHub](https://github.com/JustM4nu) 
 - [Contact me per E-Mail](mailto:justmanu@gmx.at)
+- [Joining our Discord Server!](
 
 I am always open to suggestions, and I appreciate your involvement in this project!
 
