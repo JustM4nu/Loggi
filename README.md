@@ -81,4 +81,4 @@ If you have any questions, issues, or feedback, feel free to reach out to me. I 
 
 I am always open to suggestions, and I appreciate your involvement in this project!
 
-Made with love by [JustManu](https://github.com/JustM4nu) <3.
+Made with love by [JustManu](https://github.com/JustM4nu)
