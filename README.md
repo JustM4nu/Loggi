@@ -27,7 +27,7 @@ Be among the first to try **Loggi** by joining our beta testing program! Help sh
 2. Provide some details about your interest and experience.  
 3. Keep an eye on your inbox for further instructions if you're selected.  
 
-🗓️ **Beta release planned for the ** Spots are limited, so don’t wait too long!  
+🗓️ **Beta release planned for the** Spots are limited, so don’t wait too long!  
 The first beta Version is expected to come arround the 20.12.2024 so stay stuned!
 
 
