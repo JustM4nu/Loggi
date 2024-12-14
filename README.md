@@ -84,9 +84,6 @@ If you’re planning to use the **M5 StickC 2** with **Loggi**, make sure you ha
 - **Drivers**: Ensure you have the necessary drivers installed for your M5 StickC 2 (available from [M5Stack's official website](https://m5stack.com/)).
 - **Software**: You need to have the [Bruce](https://github.com/pr3y/Bruce) Software on your M5 StickC 2 to run [Bad BLE](https://github.com/pr3y/Bruce/wiki/Others#badusb) or [Bad USB](https://github.com/pr3y/Bruce/wiki/Others#badusb) scripts.
 
-> The **M5 StickC 2** is a great option for running **Loggi** scripts on a portable, programmable device!
-
-
 
 ## Contributing 🤝
 
