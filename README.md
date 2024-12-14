@@ -8,7 +8,7 @@ We are excited to share more soon and welcome any feedback or contributions in t
 
 **Loggi** is strictly for **educational purposes only**. It is intended to help users learn about scripting and automation, and should only be used in safe, controlled environments where its usage is allowed. **Do not use this tool in any harmful or malicious way.**
 
-By using this program, you agree that you are solely responsible for any consequences, legal or otherwise, that arise from its use. I, the author, am not liable for any damage, data loss, or issues that occur through the use of **Loggi**.
+By using this program, you agree that you are solely responsible for any consequences, legal or otherwise, that arise from its use. I, the author, am not liable for any damage, lawfull actions or issues that occur through the use of [**Loggi**](https://github.com/JustM4nu/Loggi).
 
 Please always ensure that you are following legal guidelines and ethical practices when using this tool.
 
