@@ -4,8 +4,6 @@
 
 We are excited to share more soon and welcome any feedback or contributions in the meantime. Your support helps make this project even better.
 
-The first beta Version is expected to come arround the 20.12.2024 so stay stuned!
-
 ## Disclaimer ⚠️
 
 **Loggi** is strictly for **educational purposes only**. It is intended to help users learn about scripting and automation, and should only be used in safe, controlled environments where its usage is allowed. **Do not use this tool in any harmful or malicious way.**
@@ -13,6 +11,25 @@ The first beta Version is expected to come arround the 20.12.2024 so stay stuned
 By using this program, you agree that you are solely responsible for any consequences, legal or otherwise, that arise from its use. I, the author, am not liable for any damage, data loss, or issues that occur through the use of **Loggi**.
 
 Please always ensure that you are following legal guidelines and ethical practices when using this tool.
+
+## Beta Testing 🚀  
+
+Be among the first to try **Loggi** by joining our beta testing program! Help shape the future of this tool and get exclusive early access.  
+
+### Why Join the Beta Program?  
+- 🛠️ **Early Access**: Try out new features before anyone else.  
+- 💡 **Influence Development**: Your feedback will directly impact how Loggi evolves.  
+- 🎖️ **Exclusive Recognition**: Be credited as a key contributor to the project.  
+- 🌟 **Special Perk**: Receive an **exclusive role** in our Discord server to stand out as a beta tester.
+
+### How to Apply:
+1. Fill out the [Beta Tester Application Form](https://forms.office.com/r/M9ZURWjza0).  
+2. Provide some details about your interest and experience.  
+3. Keep an eye on your inbox for further instructions if you're selected.  
+
+🗓️ **Beta release planned for the ** Spots are limited, so don’t wait too long!  
+The first beta Version is expected to come arround the 20.12.2024 so stay stuned!
+
 
 ## Getting Started 🚀
 
