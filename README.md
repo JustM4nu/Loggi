@@ -16,7 +16,7 @@ Please always ensure that you are following legal guidelines and ethical practic
 
 ## Getting Started 🚀
 
-**Loggi** is currently in active development, which means the full functionality and payload are not yet available for download. However, you can still follow these basic instructions to see the setup process and prepare for future releases.
+**Loggi** is currently in active development, which means the full functionality and payload are not yet available for download. 
 
 To get started with **Loggi**, follow these steps:
 
