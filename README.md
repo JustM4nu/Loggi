@@ -21,7 +21,7 @@ Please always ensure that you are following legal guidelines and ethical practic
 To get started with **Loggi**, follow these steps:
 
 1. **Download the Payload File**: 
-   Download the [Payload.txt](example.com) file, which contains the necessary configuration for your project.
+   Download the [Payload.txt](https://example.com) file, which contains the necessary configuration for your project.
    
 2. **Edit the Webhook**: 
    Open the downloaded **Payload.txt** in **Payload Studio** or your preferred text editor. Navigate to **line 23** and replace the placeholder Discord Webhook URL with your own webhook URL. This will allow the payload to interact with your desired channel.
