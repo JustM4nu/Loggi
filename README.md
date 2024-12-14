@@ -101,7 +101,7 @@ If you have any questions, issues, or feedback, feel free to reach out to me. I 
 
 - [JustManu on GitHub](https://github.com/JustM4nu) 
 - [Contact me per E-Mail](mailto:justmanu@gmx.at)
-- [Joining our Discord Server!](dsc.gg/loggi)
+- [Joining our Discord Server!](https://dsc.gg/loggi)
 
 I am always open to suggestions, and I appreciate your involvement in this project!
 
