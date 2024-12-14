@@ -4,6 +4,8 @@
 
 We are excited to share more soon and welcome any feedback or contributions in the meantime. Your support helps make this project even better.
 
+The first beta Version is expected to come arround the 20.12.2024 so stay stuned!
+
 ## Disclaimer ⚠️
 
 **Loggi** is strictly for **educational purposes only**. It is intended to help users learn about scripting and automation, and should only be used in safe, controlled environments where its usage is allowed. **Do not use this tool in any harmful or malicious way.**
