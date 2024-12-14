@@ -12,7 +12,7 @@ By using this program, you agree that you are solely responsible for any consequ
 
 Please always ensure that you are following legal guidelines and ethical practices when using this tool.
 
-## Beta Testing 🚀  
+## Beta Testing 🚀      
 
 Be among the first to try **Loggi** by joining our beta testing program! Help shape the future of this tool and get exclusive early access.  
 
