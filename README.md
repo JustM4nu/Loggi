@@ -4,14 +4,6 @@
 
 We are excited to share more soon and welcome any feedback or contributions in the meantime. Your support helps make this project even better.
 
-## Disclaimer ⚠️
-
-**Loggi** is strictly for **educational purposes only**. It is intended to help users learn about scripting and automation, and should only be used in safe, controlled environments where its usage is allowed. **Do not use this tool in any harmful or malicious way.**
-
-By using this program, you agree that you are solely responsible for any consequences, legal or otherwise, that arise from its use. I, the author, am not liable for any damage, lawfull actions or issues that occur through the use of [**Loggi**](https://github.com/JustM4nu/Loggi).
-
-Please always ensure that you are following legal guidelines and ethical practices when using this tool.
-
 ## Beta Testing 🚀      
 
 Be among the first to try **Loggi** by joining our beta testing program! Help shape the future of this tool and get exclusive early access.  
@@ -67,11 +59,10 @@ For more details, refer to the [LICENSE](LICENSE) file.
 To use **Loggi**, make sure you have the following:
 
 - **Operating System**: Windows (Recommended)
-- **Compatible Device**: A device that supports DuckyScript (e.g., USB Rubber Ducky, or any compatible USB device capable of running DuckyScript payloads).
+- **Compatible Device**: A device that supports DuckyScript (e.g., USB Rubber Ducky, M5 Stick or any other Device supporting Ducky Scripts).
 - **Text Editor**: A text editor to modify the payload, such as [Notepad++](https://notepad-plus-plus.org/) or [VS Code](https://code.visualstudio.com/)
+- **Discord**: You will need to have a Discord account, a Server and a Webhook to use Loggi.
 - **Internet Connection**: Required for downloading and testing payloads, and to interact with webhooks (e.g., Discord Webhook)
-
-> Make sure you have a compatible device that can run DuckyScripts before using **Loggi**.
 
 ---
 
@@ -86,13 +77,17 @@ To successfully use the **M5 StickC 2** with **Loggi**, make sure you have the f
 
 ## Contributing 🤝
 
-We welcome contributions from the community! If you'd like to help improve **Loggi** or have any ideas for new features, feel free to open an issue or submit a pull request. Here's how you can contribute:
+We welcome contributions from everyone! Whether you want to enhance **Loggi**, propose new features, or address bugs, we value your input. Here’s how you can contribute:
 
-1. **Fork the Repository**: Create your own fork of the repository to start working on your changes.
-2. **Work on Your Changes**: Add new features or fix bugs, ensuring that you follow the coding style of the project and write clean, maintainable code.
-3. **Submit a Pull Request**: Once you're happy with your changes, submit a pull request for review. We’ll look it over and get back to you as soon as possible.
+1. **Fork the Repository**: Start by forking the repository to your GitHub account, so you can make changes freely.
+2. **Make Your Changes**: Work on the changes you want to contribute. This could be adding a feature, fixing a bug, or improving documentation. Please make sure your changes align with the project’s style guide and maintain code quality.
+3. **Create a Pull Request**: After you’re happy with your changes, submit a pull request from your forked repository to the main repository. Make sure to describe your changes clearly in the PR.
 
-Even if you don’t want to code, we encourage you to report any bugs you find or suggest improvements. Your feedback helps make the project better!
+If you can’t code, don’t worry! You can still contribute by reporting bugs, suggesting new features, or improving documentation. Every bit of feedback helps improve **Loggi**!
+
+---
+
+We appreciate your contributions and look forward to seeing what you create! 🚀
 
 ## Contact 📬
 
@@ -105,3 +100,11 @@ If you have any questions, issues, or feedback, feel free to reach out to me. I 
 I am always open to suggestions, and I appreciate your involvement in this project!
 
 Made with love by [JustManu](https://github.com/JustM4nu)
+
+## Disclaimer ⚠️
+
+**Loggi** is strictly for **educational purposes only**. It is intended to help users learn about scripting and automation, and should only be used in safe, controlled environments where its usage is allowed. **Do not use this tool in any harmful or malicious way.**
+
+By using this program, you agree that you are solely responsible for any consequences, legal or otherwise, that arise from its use. I, the author, am not liable for any damage, lawfull actions or issues that occur through the use of [**Loggi**](https://github.com/JustM4nu/Loggi).
+
+Please always ensure that you are following legal guidelines and ethical practices when using this tool.
