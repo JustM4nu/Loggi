@@ -75,14 +75,13 @@ To use **Loggi**, make sure you have the following:
 
 ---
 
-#### **M5 StickC 2 Requirements**  
-If you’re planning to use the **M5 StickC 2** with **Loggi**, make sure you have the following:
+#### **M5 Stick Requirements**  
+To successfully use the **M5 StickC 2** with **Loggi**, make sure you have the following:
 
-- **M5 StickC 2**: A microcontroller that can be programmed with DuckyScript.
-- **M5Burner or Arduino IDE**: You’ll need either M5Burner or the Arduino IDE to flash the M5 StickC 2 with the payload.
-- **USB Cable**: A USB Type-C cable to connect the M5 StickC 2 to your computer for flashing.
-- **Drivers**: Ensure you have the necessary drivers installed for your M5 StickC 2 (available from [M5Stack's official website](https://m5stack.com/)).
-- **Software**: You need to have the [Bruce](https://github.com/pr3y/Bruce) Software on your M5 StickC 2 to run [Bad BLE](https://github.com/pr3y/Bruce/wiki/Others#badusb) or [Bad USB](https://github.com/pr3y/Bruce/wiki/Others#badusb) scripts.
+- **M5 StickC 2**: Any model of the M5 StickC 2 is compatible for use with **Loggi**.
+- **Bruce Flasher**: You'll need the [Bruce Flasher](https://bruce.computer/flasher) to flash the **M5 StickC 2** with Bruce. _Please note, this requires the Google Chrome browser_.
+- **USB Cable**: A `USB Type-C` cable **WITH DATA TRANSFER SUPPORT** is required to connect your **M5 StickC 2** to your computer for flashing.
+- **Software**: Ensure you have the [Bruce software](https://github.com/pr3y/Bruce) installed on your **M5 StickC 2** to run the [Bad BLE](https://github.com/pr3y/Bruce/wiki/BLE#badble) or [Bad USB](https://github.com/pr3y/Bruce/wiki/Others#badusb) scripts.
 
 
 ## Contributing 🤝
